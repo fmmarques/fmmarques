@@ -10,6 +10,14 @@
 
 </p>
 
+## About me
+Lorem ipsu
+
+### What do I love to do?
+
+I enjoy coding in real life! :zap:
+Take a look at what I'm best at!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Certifications and badges from popular platforms
 

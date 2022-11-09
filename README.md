@@ -5,7 +5,7 @@
 			<img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 		</a>
 	</div>
-	<img align="center" src="https://komarev.com/ghpvc/?username=fmmarques&style=flat-square&color=blue" alt=""/>
+	<div id="views" align="center"><img align="center" src="https://komarev.com/ghpvc/?username=fmmarques&style=flat-square&color=blue" alt=""/></div>
 	<h1 align="center"> Hi there! <img width="50px" src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a2c717b946824c5a073174309e219cdf4b934b21&rid=giphy.gif&ct=s"/></h1>
 
 </p>

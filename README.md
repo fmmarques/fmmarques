@@ -6,7 +6,7 @@
 		</a>
 	<img align="center" src="https://komarev.com/ghpvc/?username=fmmarques&style=flat-square&color=blue" alt=""/>
 	</div>
-	<h1 align="center"> Hi there! </h1><img width="50px;" src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a2c717b946824c5a073174309e219cdf4b934b21&rid=giphy.gif&ct=s"/>
+	<h1 align="center"> Hi there! </h1><img width="50px" src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a2c717b946824c5a073174309e219cdf4b934b21&rid=giphy.gif&ct=s"/>
 
 </p>
 

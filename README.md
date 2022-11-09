@@ -3,7 +3,7 @@
 	<h1 align="center"> Hi there! 👋</h3>
 	<div id="badges" align="center">
   		<a href="https://www.linkedin.com/in/frederico-a-marques/">
-			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=plastic&logoColor=white" alt="LinkedIn Badge"/>
 		</a>
 	</div>
 </p>

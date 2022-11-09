@@ -13,14 +13,13 @@
 --- 
 
 ## About me
-Lorem ipsu
-
---- 
+I'm a SWE hailing from Portugal. I love my area and solving problems!
+I'll be happy to make your acquaitance
 
 ### What do I love to do?
 
 I enjoy coding in real life! :zap:
-Take a look at what I'm best at
+Take a look at what I'm best at below.
 
 ---
 ## My stats and certs
